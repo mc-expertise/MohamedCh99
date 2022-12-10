@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Chouati</h1>
-<h3 align="center">A passionate Front-End developer 🧑🏽‍💻</h3>
+<h3 align="center">Front-End developer 🧑🏽‍💻</h3>
 
 - 🌱 I’m currently learning **React JS**
 
