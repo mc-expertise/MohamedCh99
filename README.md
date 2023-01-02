@@ -6,9 +6,9 @@
 
 - 💻 All of my public projects are available on <a href="https://github.com/MohamedCh99?tab=repositories">My Github Repositories</a>
 
-- 🌐 My social networks <a href="https://www.instagram.com/mohamed.chouati_/">**instagram**</a> or <a href="https://www.linkedin.com/in/mohamed-chouati-249798198/">**Linkedin**</a>
+- 🌐 My social networks <a href="https://www.instagram.com/mohamed.chouati_/">**Instagram**</a> or <a href="https://www.linkedin.com/in/mohamed-chouati-249798198/">**Linkedin**</a>
 
-- 👨‍💻 My Portfolio <a href="https://moha-code.netlify.app/">Click here</a>
+- 👨‍💻 My Portfolio <a href="https://moha-code.netlify.app/" target="_blank" rel="noreferrer">**Click here**</a>
 
 - 📫 How to reach me **chouati.dev@gmail.com**
 
