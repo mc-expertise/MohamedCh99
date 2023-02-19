@@ -8,7 +8,7 @@
 
 - 🌐 My social networks <a href="https://www.instagram.com/mohamed.chouati_/">**Instagram**</a> or <a href="https://www.linkedin.com/in/mohamed-chouati-249798198/">**Linkedin**</a>
 
-- 👨‍💻 My Portfolio <a href="https://moha-code.netlify.app/" target="_blank" rel="noreferrer">**Click here**</a>
+- 👨‍💻 My Portfolio <a href="https://mc-expertise.netlify.app/" target="_blank" rel="noreferrer">**Click here**</a>
 
 - 📫 How to reach me **chouati.dev@gmail.com**
 
